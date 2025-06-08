@@ -2,7 +2,7 @@
 
 Here’s a structured overview of how you could approach **all five** tasks in the context of a data science internship:
 
-## 1] 📊 **Visualize Distributions (Histogram & Bar Chart)**
+## 1]  **Visualize Distributions (Histogram & Bar Chart)**
 
 * **Objective**: Show how values are distributed for a given variable.
 * **Approach**:
@@ -17,7 +17,7 @@ Here’s a structured overview of how you could approach **all five** tasks in t
 
 ---
 
-## 2] 🔍 **Data Cleaning & EDA (Titanic Dataset)**
+## 2]  **Data Cleaning & EDA (Titanic Dataset)**
 
 * **Data Cleaning Steps**:
 
@@ -33,7 +33,7 @@ Here’s a structured overview of how you could approach **all five** tasks in t
 
 ---
 
-## 3] 🌳 **Decision Tree Classifier (Bank Marketing Dataset)**
+## 3]  **Decision Tree Classifier (Bank Marketing Dataset)**
 
 * **Objective**: Predict if a customer will subscribe to a term deposit (`yes`/`no`).
 * **Steps**:
@@ -53,7 +53,7 @@ Here’s a structured overview of how you could approach **all five** tasks in t
 
 ---
 
-## 4] 😊 **Sentiment Analysis on Social Media**
+## 4]  **Sentiment Analysis on Social Media**
 
 * **Objective**: Understand public attitudes toward a brand or topic (e.g., tweets).
 * **Steps**:
@@ -73,7 +73,7 @@ Here’s a structured overview of how you could approach **all five** tasks in t
 
 ---
 
-## 5] 🚗 **Traffic Accident Analysis**
+## 5]  **Traffic Accident Analysis**
 
 * **Objective**: Find patterns in accidents related to road, weather, and time.
 * **Steps**:
@@ -112,7 +112,7 @@ Here’s a structured overview of how you could approach **all five** tasks in t
 
 ---
 
-### ✅ Final Summary
+###  Final Summary
 
 * You’ll build **clean, visual EDA pipelines** .
 * You’ll create an **interpretable predictive model**.
